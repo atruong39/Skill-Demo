@@ -5,6 +5,6 @@ public class SkillDemoTest {
     @Test
 
     public void multiply() {
-        assertEquals(5, SkillDemo.multiply(3, 2)); // test that fails
+        assertEquals(6, SkillDemo.multiply(3, 2)); // fixed test
     }
 }
